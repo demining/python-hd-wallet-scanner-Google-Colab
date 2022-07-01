@@ -23,3 +23,11 @@ Download every Bitcoin address with a positive balance from https://bitkeys.work
 in linux or WSL on Windows extract the first column of that csv: cut -d, -f 1 btc_balance_sorted.csv > all_btc_addr.txt
 
 add all_btc_addr.bin to your bloom filter search, The bloom filter will take a little time to generate as there is over 31m addresses.
+
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
